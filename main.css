@@ -1,0 +1,56 @@
+
+
+h1 {
+    text-align: center;
+    color: #A0D8F1;
+}
+
+.zippity {
+    color: white;
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+form {
+    display: block;
+    text-align: center;
+}
+
+body {
+    background-color: gray;
+}
+
+
+div {
+    border: solid;
+    border-width: 1px;
+    max-width: 25%;
+    text-align: center;
+    margin-left: 35%;
+    background-color: white;
+}
+
+
+
+#div1 {
+    display: block;
+    margin-top: 50px;
+    padding-top: 10px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom: none;
+}
+
+#div2, #div3, #div4 {
+    border-top: none;
+    border-bottom: none;
+    padding-top: 10px;
+}
+
+#div5 {
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px; 
+    border-top: none;  
+    padding-top: 10px;
+    padding-bottom: 20px; 
+}
